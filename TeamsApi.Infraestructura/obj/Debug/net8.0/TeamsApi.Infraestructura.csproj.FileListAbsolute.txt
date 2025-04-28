@@ -1,0 +1,17 @@
+D:\Dcomuentos\Universidad\microservicios\repos\TeamsApi\TeamsApi.Infraestructura\obj\Debug\net8.0\TeamsApi.Infraestructura.csproj.AssemblyReference.cache
+D:\Dcomuentos\Universidad\microservicios\repos\TeamsApi\TeamsApi.Infraestructura\obj\Debug\net8.0\TeamsApi.Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dcomuentos\Universidad\microservicios\repos\TeamsApi\TeamsApi.Infraestructura\obj\Debug\net8.0\TeamsApi.Infraestructura.AssemblyInfoInputs.cache
+D:\Dcomuentos\Universidad\microservicios\repos\TeamsApi\TeamsApi.Infraestructura\obj\Debug\net8.0\TeamsApi.Infraestructura.AssemblyInfo.cs
+D:\Dcomuentos\Universidad\microservicios\repos\TeamsApi\TeamsApi.Infraestructura\obj\Debug\net8.0\TeamsApi.Infraestructura.csproj.CoreCompileInputs.cache
+D:\Dcomuentos\Universidad\microservicios\repos\TeamsApi\TeamsApi.Infraestructura\bin\Debug\net8.0\TeamsApi.Infraestructura.deps.json
+D:\Dcomuentos\Universidad\microservicios\repos\TeamsApi\TeamsApi.Infraestructura\bin\Debug\net8.0\TeamsApi.Infraestructura.dll
+D:\Dcomuentos\Universidad\microservicios\repos\TeamsApi\TeamsApi.Infraestructura\bin\Debug\net8.0\TeamsApi.Infraestructura.pdb
+D:\Dcomuentos\Universidad\microservicios\repos\TeamsApi\TeamsApi.Infraestructura\bin\Debug\net8.0\TeamsApi.Aplicacion.dll
+D:\Dcomuentos\Universidad\microservicios\repos\TeamsApi\TeamsApi.Infraestructura\bin\Debug\net8.0\TeamsApi.Dominio.dll
+D:\Dcomuentos\Universidad\microservicios\repos\TeamsApi\TeamsApi.Infraestructura\bin\Debug\net8.0\TeamsApi.Aplicacion.pdb
+D:\Dcomuentos\Universidad\microservicios\repos\TeamsApi\TeamsApi.Infraestructura\bin\Debug\net8.0\TeamsApi.Dominio.pdb
+D:\Dcomuentos\Universidad\microservicios\repos\TeamsApi\TeamsApi.Infraestructura\obj\Debug\net8.0\TeamsApi.BF35447B.Up2Date
+D:\Dcomuentos\Universidad\microservicios\repos\TeamsApi\TeamsApi.Infraestructura\obj\Debug\net8.0\TeamsApi.Infraestructura.dll
+D:\Dcomuentos\Universidad\microservicios\repos\TeamsApi\TeamsApi.Infraestructura\obj\Debug\net8.0\refint\TeamsApi.Infraestructura.dll
+D:\Dcomuentos\Universidad\microservicios\repos\TeamsApi\TeamsApi.Infraestructura\obj\Debug\net8.0\TeamsApi.Infraestructura.pdb
+D:\Dcomuentos\Universidad\microservicios\repos\TeamsApi\TeamsApi.Infraestructura\obj\Debug\net8.0\ref\TeamsApi.Infraestructura.dll

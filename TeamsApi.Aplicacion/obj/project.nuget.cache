@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ShVg8qxHsXs=",
+  "success": true,
+  "projectFilePath": "D:\\Dcomuentos\\Universidad\\microservicios\\repos\\TeamsApi\\TeamsApi.Aplicacion\\TeamsApi.Aplicacion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pipe\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
+    "C:\\Users\\Pipe\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\Pipe\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Pipe\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\Pipe\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "9xCWJfpi30R40IUWvFh7K1wdoXFmbJi4CSDvXnWPpyw=",
+  "Source": "TeamsApi.Api",
+  "BasePath": "_content/TeamsApi.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

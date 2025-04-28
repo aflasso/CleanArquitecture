@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TeamsApi.Api.props" />
+</Project>
