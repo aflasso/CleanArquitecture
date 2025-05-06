@@ -9,7 +9,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
-builder.Services.AddDbContext<AppDbContext>(options => options.UseMySQL("server=localhost;port=3306;database=teamsdb;user=teamsuser;password=T34msUs3r*01"));
+builder.Services.AddDbContext<AppDbContext>(options => options.UseMySQL(builder.Configuration.GetConnectionString("CnnStr")!));
 
 builder.Services.AddControllers().ConfigureApiBehaviorOptions(options =>
 {
